@@ -21,7 +21,7 @@ ModAPI.addEventListener("lib:libcustomitems:loaded", () => {
             }
         },
         onRightClickGround: `/*/user, world, itemstack, blockpos/*/
-        const prefix = "§7[§4worldedit§7] ";
+        const prefix = "§7[§4EasyHacked§7] ";
         var username = ModAPI.util.str(user.getName());
 
         globalThis.pos2x = {}
